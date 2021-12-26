@@ -1,0 +1,23 @@
+* {
+    background-color: black;
+    color: white;
+    margin-left: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+body {
+    margin-left: 100px;
+}
+
+p, li {
+    font-size: 16px;
+}
+
+a, h1 {
+    color: orange;
+}
+
+h2, h3, h4, h5, h6 {
+    color: gray;
+}
